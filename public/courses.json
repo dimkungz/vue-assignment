@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Vue 3 พื้นฐาน", "price": 1500 },
+  { "id": 2, "name": "Pinia State Management", "price": 1800 },
+  { "id": 3, "name": "Vue Router", "price": 1200 },
+  { "id": 4, "name": "Axios และ REST API", "price": 1600 },
+  { "id": 5, "name": "Composition API", "price": 1400 }
+]
